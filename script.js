@@ -1,5 +1,9 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
+var lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
+var uppercaseChars = "ABCDEFGHIFGHIJKLMNOPQRSTUVWXYZ";
+var numericalChars = "0123456789";
+var specialChars = "!#$%&()*+,-./:;<=>?@[]^_{|}~";
 
 // Write password to the #password input
 function writePassword() {
