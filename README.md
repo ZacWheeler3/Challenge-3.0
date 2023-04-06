@@ -8,6 +8,7 @@ Password generator debugging using JavaScript
 ```
 ## Usage 
 ```
+Github Repo: https://github.com/ZacWheeler3/Challenge-3.0 Live Site: https://zacwheeler3.github.io/Challenge-3.0/
 Debugged Java Script code in order to meet the guidelines for secure passwords and enable random generator to work successfully.
 ```
 ## User Story
