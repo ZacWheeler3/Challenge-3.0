@@ -1,5 +1,15 @@
 # Challenge-3.0
 
+## Description
+
+```
+Password generator debugging using JavaScript
+
+```
+## Usage 
+```
+Debugged Java Script code in order to meet the guidelines for secure passwords and enable random generator to work successfully.
+```
 ## User Story
 
 ```
@@ -27,3 +37,4 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+![Password Generator](https://media.discordapp.net/attachments/1085659301005250651/1093376466256937030/password_generjavascript.png?width=799&height=468) "Zac JavaScript Debugging")
